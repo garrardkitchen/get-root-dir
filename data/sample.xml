@@ -1,0 +1,6 @@
+<root>
+    <policy name="gk">
+        <api name="admin">true</api>
+        <api name="data">true</api>
+    </policy>
+</root>
